@@ -1,0 +1,5 @@
+/examples
+/*.txt
+/telegram.session
+/*.json
+/target

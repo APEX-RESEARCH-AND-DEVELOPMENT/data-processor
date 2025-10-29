@@ -1,0 +1,12 @@
+[env]
+RUST_BACKTRACE="full"
+
+# USER DEFINED ENV VARS
+
+# TELEGRAM
+API_ID="27031665"
+API_HASH="c7b33ad434f907438e088e89c532a618"
+SESSION_PATH="telegram.session"
+
+# DISCORD
+AUTH_FILE="/home/hopper/codes/israeli_data_processor/discord_auth.txt"
